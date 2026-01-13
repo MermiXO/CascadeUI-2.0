@@ -251,4 +251,4 @@ Window:LoadConfig(json) -- accepts JSON string, table, or file path (if supporte
 Check out `example.lua` if you wanna test CascadeUI.
 
 ## Credits
-- Inspired by SquidGurr
+- Inspired by SquidGurr's: https://github.com/SquidGurr/CascadeUI
